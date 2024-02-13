@@ -10,6 +10,7 @@
 - ⚡ Fun fact **I'm shiny :D**
 
 <h3 align="left">Connect with me:</h3>
+<h4>Discord : anosy0</h4>
 <p align="left">
 </p>
 
