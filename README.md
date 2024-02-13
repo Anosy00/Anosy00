@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anosy00&label=Profile%20views&color=0e75b6&style=flat" alt="anosy00" /> </p>
 
-- 🔭 I’m currently working on many projects you can find on my GitHub [https://github.com/Anosy00?tab=repositories](https://github.com/Anosy00?tab=repositories)
+- 🔭 I’m currently working on many projects you can find on my GitHub [https://github.com/Anosy00?tab=repositories](https://github.com/Anosy00?tab=repositories) and under this ReadMe I had pined some nice repositories !
 
 - 🌱 I’m currently learning **computer science**
 
