@@ -5,6 +5,10 @@
 
 - 🔭 I’m currently working on many projects you can find on my GitHub [https://github.com/Anosy00?tab=repositories](https://github.com/Anosy00?tab=repositories)
 
+- 🌱 I’m currently learning **computer science**
+
+- ⚡ Fun fact **I'm shiny :D**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
