@@ -9,6 +9,10 @@
 
 - ⚡ Fun fact **I'm shiny :D**
 
+![Anosy00's Stats](https://github-readme-stats.vercel.app/api?username=Anosy00&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![Anosy00's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anosy00&theme=vue-dark&hide_border=false)
+![Anosy00's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anosy00&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+
 <h3 align="left">Connect with me:</h3>
 <h4>Discord : anosy0</h4>
 <p align="left">
